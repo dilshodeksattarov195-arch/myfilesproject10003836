@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrpdate",
+        "uuid": 34508656,
+        "checksum": "1pfh2e"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
